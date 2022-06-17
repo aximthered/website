@@ -1,0 +1,4 @@
+[submodule "suWeb/public"]
+	path = suWeb/public
+	url = https://github.com/aximthered/su.github.io.git
+	branch = main
